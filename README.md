@@ -1,3 +1,3 @@
-# desenvolve-sql
+# Estudos introducao ao SQL
 
-PDITA - 240
+- Estudos da parte basica do python por meio do curso técnico em programação "Projeto Desenvolve".
